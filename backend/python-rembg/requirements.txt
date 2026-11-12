@@ -1,0 +1,5 @@
+# Python 3.11 a 3.13, CPU; download do modelo na primeira requisição.
+rembg[cpu]>=2.0.0,<3
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+python-multipart>=0.0.20,<1
